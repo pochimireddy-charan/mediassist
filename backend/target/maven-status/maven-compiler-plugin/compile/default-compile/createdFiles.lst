@@ -1,0 +1,7 @@
+com\mediassist\repository\MedicalRecordRepository.class
+com\mediassist\config\DataInitializer.class
+com\mediassist\entity\MedicalRecord.class
+com\mediassist\config\CorsConfig.class
+com\mediassist\controller\MedicalRecordController.class
+com\mediassist\service\MedicalRecordService.class
+com\mediassist\MediAssistApplication.class
